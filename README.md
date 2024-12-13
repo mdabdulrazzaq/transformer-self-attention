@@ -103,6 +103,6 @@ In practice, transformers scale this mechanism to process vast amounts of text e
    ```
 2. Navigate to the project directory and open the Jupyter Notebook:
    ```bash
-   jupyter notebook self_attention_blog.ipynb
+   jupyter notebook Self_Attention_Transformers.ipynb
    ```
 3. Follow the step-by-step implementation in the notebook.
