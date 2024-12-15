@@ -26,12 +26,7 @@ This repository provides an in-depth exploration of self-attention in transforme
 
 ---
 
-## File Structure
 
-- `self_attention_blog.ipynb`: A Jupyter Notebook demonstrating the full implementation of self-attention with code examples and detailed explanations.
-- `README.md`: This file, summarizing the concepts and providing an overview of the repository.
-
----
 
 ## How It Works
 
